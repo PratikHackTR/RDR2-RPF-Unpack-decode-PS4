@@ -2,7 +2,6 @@
 
 [English](#english) · [Türkçe](#türkçe)
 
-Repository: https://github.com/PratikHackTR/RDR2-RPF-Unpack-decode-PS4
 
 ## English
 
