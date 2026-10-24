@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+private/
+output/
+out/
+key_locations.json
+*.elf
+*.self
+*.rpf
+*.pkg
+*.dll
+*.so
+*.dylib
+*.key
